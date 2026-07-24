@@ -18,7 +18,7 @@
 
 // TypeScript Version: 4.1
 
-/// <reference types="@stdlib/types"/>
+/// <reference types="https://cdn.jsdelivr.net/gh/stdlib-js/types@esm/index.d.ts"/>
 
 /**
 * If provided input values, the accumulator function returns an updated moving squared sample correlation coefficient. If not provided input values, the accumulator function returns the current moving squared sample correlation coefficient.
